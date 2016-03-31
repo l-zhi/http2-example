@@ -10,7 +10,7 @@ spdy demo using koa and component
 
 # Clone this example
 git clone git://github.com/l-zhi/koa-spdy-demo
-cd bigpipe-example
+cd koa-spdy-demo
 
 # Install all dependencies and build the assets
 npm install
