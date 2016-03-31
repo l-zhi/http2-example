@@ -19,6 +19,6 @@
   "devDependencies": {},
   "description": "http2 demo using koa and component",
   "scripts": {
-    "start":"nodemon serve.js"
+    "start":"nodemon serve/serve.js"
   }
 }

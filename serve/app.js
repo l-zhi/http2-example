@@ -21,10 +21,9 @@ app.use(convert(compress()))
 // app.use(convert(staticCache(resolve(root, 'public'), {
 //   maxAge: 365 * 24 * 60 * 60  //去掉缓存更明显
 // })))
-
 app.use(convert(serveStatic(resolve(root, 'public'))));
 
-var defaultPage = fs.readFileSync(resolve(process.cwd(), '../public/index.html'), { encoding: 'UTF-8' });
+var defaultPage = fs.readFileSync(resolve(process.cwd(), 'public/index.html'), { encoding: 'UTF-8' });
 
 
 app.use(convert(function *(next) {

@@ -5,6 +5,8 @@ spdy demo using koa and component
 - http 和 http2 图片加载速度对比
 - 请求页面，推送页面相关资源
 
+打开chrome开发者工具，查看资源获取状况
+
 ### 安装：
 ```bash
 
