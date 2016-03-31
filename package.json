@@ -1,0 +1,24 @@
+{
+  "name": "http2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lizhi",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.0.0",
+    "koa-compress": "^1.0.9",
+    "koa-logger": "^1.3.0",
+    "koa-router": "^7.0.1",
+    "koa-static": "^2.0.0",
+    "koa-static-cache": "^3.1.6",
+    "spdy": "^3.2.3"
+  },
+  "devDependencies": {},
+  "description": "http2 demo using koa and component",
+  "scripts": {
+    "start":"nodemon serve.js"
+  }
+}
