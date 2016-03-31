@@ -1,11 +1,11 @@
 # koa-spdy-demo
 spdy demo using koa and component
 
-## 提供了两个例子：
+### 提供了两个例子：
 - http 和 http2 图片加载速度对比
 - 请求页面，推送页面相关资源
 
-## 安装：
+### 安装：
 ```bash
 
 # Clone this example
