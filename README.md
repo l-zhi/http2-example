@@ -1,5 +1,5 @@
 # http2-example
-spdy demo using koa and component
+http2 demo using koa and component
 
 ### 提供了两个例子：
 - http 和 http2 图片加载速度对比
@@ -11,8 +11,8 @@ spdy demo using koa and component
 ```bash
 
 # Clone this example
-git clone git://github.com/l-zhi/koa-spdy-demo
-cd koa-spdy-demo
+git clone git://github.com/l-zhi/http2-example
+cd http2-example
 
 # Install all dependencies and build the assets
 npm install
