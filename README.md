@@ -1,4 +1,4 @@
-# koa-spdy-demo
+# http2-example
 spdy demo using koa and component
 
 ### 提供了两个例子：
